@@ -1,0 +1,2 @@
+# AWS-Data-Processing-and-Comparison-Result-with-Synoptic-Data-using-Statistical-Method-BMKG
+Performed quality control procedures on AWS( Automatic Weather Station) data to ensure accuracy and reliability,  Analyzed AWS data in comparison with synoptic or observational results using statistical methods such as Chi Square test, Two-Sample t-test, and Mann-Whitney U test, enhancing data validation and integrity. 
